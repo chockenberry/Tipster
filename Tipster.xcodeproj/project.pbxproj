@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		441F134D3046608F0091A5B5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		44BB62EA303CE31D00E582A2 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -45,6 +46,7 @@
 		44BB62E1303CE31D00E582A2 = {
 			isa = PBXGroup;
 			children = (
+				441F134D3046608F0091A5B5 /* README.md */,
 				44BB62EC303CE31D00E582A2 /* Tipster */,
 				44BB62EB303CE31D00E582A2 /* Products */,
 			);
